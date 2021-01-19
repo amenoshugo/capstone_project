@@ -1,0 +1,24 @@
+.mc{
+    width: 97%;
+    height: 95vh;
+    
+}
+
+.lc{
+    width: 30%;
+    float: left;
+}
+.rc{
+    width: 70%;
+    float: left;
+  
+}
+
+.lc a{
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.1rem;
+    border-bottom: 1px solid black;
+    
+}

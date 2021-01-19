@@ -1,0 +1,12 @@
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+img{
+    float: left;
+    width: 33%;
+    height: 200px;
+    margin-top: 13px;
+}
